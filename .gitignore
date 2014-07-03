@@ -5,3 +5,4 @@ main/o/*.pyc
 main/w/*.pyc
 main/r/*.pyc
 main/d/*.pyc
+main/*.pyc
