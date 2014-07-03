@@ -2,6 +2,8 @@ hello world
 ===========
 A very complicated "Hello World" program written in python. Enjoy!
 
+To run type: ```python hello_world.py```
+
 License
 --------
 This is free and unencumbered software released into the public domain.
